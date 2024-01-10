@@ -8,7 +8,7 @@ const contact=()=>{
     <div className="bg-white">
       <Header/>
       <main className="lg:flex max-w-screen-2xl mx-auto">
-      <div className="bg-gray-500">
+      <div>
         <Image src="https://links.papareact.com/ikj"
         width={1200}
         height={250}
