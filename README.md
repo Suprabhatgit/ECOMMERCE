@@ -30,5 +30,12 @@ functionality available.
 5. It is responsive in any devices and screen sizes.
 6. I have deployed it in Vercel.
 7. Deployment Link: https://ecommerce-site-ten-wine.vercel.app/
+8. HOME PAGE:
+![Screenshot (38)](https://github.com/Suprabhatgit/ECOMMERCE/assets/141928640/3192a6c7-3d1c-479c-a46a-3530b8c3cae4)!
 
-
+9. Sign In using Google Firebase Authentication with NodeJs:
+![Screenshot (39)](https://github.com/Suprabhatgit/ECOMMERCE/assets/141928640/84a3b7d9-5d5e-400c-b875-9f92fc8934a6)
+10. Contact Us page with NextJs and NodeJs:
+![Screenshot (40)](https://github.com/Suprabhatgit/ECOMMERCE/assets/141928640/c889a8ad-45b1-4dbf-a639-af61885158f8)
+11. CheckOutSession using Redux:
+![Screenshot (41)](https://github.com/Suprabhatgit/ECOMMERCE/assets/141928640/c757bdbc-361a-4a43-97cb-03206045720b)
