@@ -41,3 +41,9 @@ functionality available.
 ![Screenshot (40)](https://github.com/Suprabhatgit/ECOMMERCE/assets/141928640/c889a8ad-45b1-4dbf-a639-af61885158f8)
 11. CheckOutSession using Redux:
 ![Screenshot (41)](https://github.com/Suprabhatgit/ECOMMERCE/assets/141928640/c757bdbc-361a-4a43-97cb-03206045720b)
+
+#Linux Custom Script Tasks:
+![Screenshot (34)](https://github.com/Suprabhatgit/ECOMMERCE/assets/141928640/f3ab0dda-b8d6-4a18-85bd-73c4b67faf9c)
+![Screenshot (35)](https://github.com/Suprabhatgit/ECOMMERCE/assets/141928640/68a20f1b-3a13-449f-8372-7ebc6688b38c)
+![Screenshot (36)](https://github.com/Suprabhatgit/ECOMMERCE/assets/141928640/707d988d-7341-4e21-9e2c-d459259f6bab)
+![Screenshot (37)](https://github.com/Suprabhatgit/ECOMMERCE/assets/141928640/47759ee6-0f03-4de4-b84f-96dfd9c8ca97)
