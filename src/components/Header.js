@@ -45,9 +45,9 @@ function Header() {
                 <p className="font-extrabold md:text-sm">Accounts & Lists</p>
               </div>
 
-              <div className="link">
-                <p className="font-extrabold md:text-sm">Returns</p>
-                <p className="font-extrabold md:text-sm">& Orders</p>
+              <div onClick={()=>router.push("/contact")} className="link">
+                <p className="font-extrabold md:text-sm">Helpdesk</p>
+                <p className="font-extrabold md:text-sm">Contact Us</p>
                 </div>
 
               <div onClick={()=>router.push("/checkout")} className=" relative link flex items-center">

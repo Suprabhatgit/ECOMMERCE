@@ -8,5 +8,13 @@
 .button{
 @apply p-2 text-xs md:text-sm bg-gradient-to-b from-yellow-200 to-yellow-400 border border-yellow-300 rounded-sm focus:outline-none focus:ring-2 focus:ring-yellow-500 active:from-yellow-500;
 }
+/* nnnn */
+form>div{
+    @apply flex flex-col gap-2;
+}
+input,
+textarea{
+    @apply shadow-md px-6 py-2 border border-solid;
+}
 
 }
