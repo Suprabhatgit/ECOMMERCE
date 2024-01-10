@@ -2,7 +2,7 @@
 https://github.com/Suprabhatgit/Task1 (please Check out this repo)
 
 
-#TECHNICAL TASK:
+#TECHNICAL TASK:https://ecommerce-site-ten-wine.vercel.app/
 
 # Installation Steps
 
